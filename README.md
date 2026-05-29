@@ -313,6 +313,10 @@ Yes. The International Usage Behavior analysis shows:
 4. Prioritize High-Risk Customer Retention The risk segmentation model provides an opportunity to identify vulnerable customers early. These customers can be targeted with:  loyalty incentives, retention campaigns, personalized support or service upgrades.
 5. Monitor Heavy Usage Customers More Closely High usage customers contribute significant value but also showed higher churn likelihood. Maintaining service reliability and network quality for these customers is important.
 
+## What I learned 
+
+
+
 ### Final Conclusion
 
 The analysis shows that churn is primarily influenced by: customer dissatisfaction, high service interaction, pricing pressure and poor service-plan alignment. By using behavioral segmentation and risk monitoring, the telecom company can proactively identify vulnerable customers and implement targeted retention strategies before churn occurs.
