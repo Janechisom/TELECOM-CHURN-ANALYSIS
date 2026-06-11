@@ -320,3 +320,10 @@ Yes. The International Usage Behavior analysis shows:
 ### Final Conclusion
 
 The analysis shows that churn is primarily influenced by: customer dissatisfaction, high service interaction, pricing pressure and poor service-plan alignment. By using behavioral segmentation and risk monitoring, the telecom company can proactively identify vulnerable customers and implement targeted retention strategies before churn occurs.
+
+### Author
+### Jane Chisom Raymond
+
+Business Intelligence Analyst | Financial analyst (In Training)
+
+Focused on Advanced Excel,  SQL,Tableau , Financial Analytics, and Business Intelligence.
